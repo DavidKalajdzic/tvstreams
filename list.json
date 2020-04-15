@@ -1,0 +1,94 @@
+{
+  "stations": [
+    {
+      "url": "https://s1019-0-136.cdn.iptv.ch/session/340937f8-53d1-11e9-9289-005056bc5620/6cexmz/2/2034/1368000/index.m3u8?_=1554049361131",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/RTS_Un.svg/704px-RTS_Un.svg.png",
+      "name": "RTS UN"
+    },
+    {
+      "url": "https://s1016-1-137.cdn.iptv.ch/session/e504b5fa-53d1-11e9-b052-005056bc0984/6cexmz/2/5045/1368000/index.m3u8?_=1554049657972",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Radio-Televizija-Srbije-Logo.svg/1920px-Radio-Televizija-Srbije-Logo.svg.png",
+      "name": "RTS Sat"
+    },
+    {
+      "url": "https://parh.rtrs.tv/tv/live/chunklist_w116758629.m3u8",
+      "logo": "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-1/26814953_2120503424844262_2084342216044528963_n.jpg?_nc_cat=104&_nc_ohc=pzVfnKLiG10AX-wxftF&_nc_ht=scontent-frt3-1.xx&oh=0e2e661670302b62d9fd18eda3d637ae&oe=5ED8AB01",
+      "name": "RTRS (ne radi uvjek)"
+    },
+    {
+      "url": "https://vod.morescreens.com/hls/rts_planeta_rts_zvanicni.mp4/index-v1-a1.m3u8",
+      "logo": "https://lh3.googleusercontent.com/7LLUGUem4F0ENJ46D6czIBAtmgviQp_c1On8a9923Z_X2NzU5lfExtX3LvK9BNCX=s360",
+      "name": "RTS Planeta"
+    },
+    {
+      "url": "https://dns2.rtvbn.com:8080/live/index.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/BN_Televizija_Logo.svg/892px-BN_Televizija_Logo.svg.png",
+      "name": "BN"
+    },
+    {
+      "url": "https://streams.wilmaa.com/m3u8/get?channelId=rts_deux_hd",
+      "logo": "https://www.rts.ch/2019/08/31/12/59/6940554.image/16x9/scale/width/1000",
+      "name": "RTS DEUX"
+    },
+    {
+      "url": "https://streams.wilmaa.com/m3u8/get?channelId=m_6_hd",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/M6_2009.svg/langfr-1920px-M6_2009.svg.png",
+      "name": "M6"
+    },
+    {
+      "url": "https://streams.wilmaa.com/m3u8/get?channelId=tf_1_hd",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/langfr-2560px-TF1_%282013%29.svg.png",
+      "name": "TF1"
+    },
+    {
+      "url": "https://streams.wilmaa.com/m3u8/get?channelId=france_2_hd",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/langfr-1920px-France_2_2018.svg.png",
+      "name": "France 2"
+    },
+    {
+      "url": "https://streams.wilmaa.com/m3u8/get?channelId=france_3",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/1404px-France_3_2018.svg.png",
+      "name": "France 3"
+    },
+    {
+      "url": "https://streams.wilmaa.com/m3u8/get?channelId=france_4",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/langfr-1920px-France_4_2018.svg.png",
+      "name": "France 4"
+    },
+    {
+      "url": "https://streams.wilmaa.com/m3u8/get?channelId=france_5",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/langfr-1920px-France_5_2018.svg.png",
+      "name": "France 5"
+    },
+    {
+      "url": "https://streams.wilmaa.com/m3u8/get?channelId=rouge_tv",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Rouge_Tv-_cmjn.png",
+      "name": "Rouge TV"
+    },
+    {
+      "url": "https://streams.wilmaa.com/m3u8/get?channelId=6_ter",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a9/6ter_2012.png/2560px-6ter_2012.png",
+      "name": "6Ter"
+    },
+    {
+      "url": "https://streams.wilmaa.com/m3u8/get?channelId=tv_5_monde",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TV5_Monde_%282009-%29.svg/langfr-2560px-TV5_Monde_%282009-%29.svg.png",
+      "name": "TV5 Monde"
+    },
+    {
+      "url": "https://streams.wilmaa.com/m3u8/get?channelId=rmc_decouverte",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_Découverte_logo_2017.svg/langfr-2560px-RMC_Découverte_logo_2017.svg.png",
+      "name": "RMC Découverte"
+    },
+    {
+      "url": "https://streams.wilmaa.com/m3u8/get?channelId=w_9",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/4/46/W9_logo_%282018%29.png",
+      "name": "W9"
+    },
+    {
+      "url": "https://streams.wilmaa.com/m3u8/get?channelId=nrj_12",
+      "loog": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/langfr-1920px-NRJ_12_logo_2015.svg.png",
+      "name": "NRJ 12"
+    }
+  ]
+}

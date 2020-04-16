@@ -15,11 +15,6 @@
     "name": "RTRS (ne radi uvjek)"
   },
   {
-    "url": "https://vod.morescreens.com/hls/rts_planeta_rts_zvanicni.mp4/index-v1-a1.m3u8",
-    "logo": "https://lh3.googleusercontent.com/7LLUGUem4F0ENJ46D6czIBAtmgviQp_c1On8a9923Z_X2NzU5lfExtX3LvK9BNCX=s360",
-    "name": "RTS Planeta"
-  },
-  {
     "url": "https://dns2.rtvbn.com:8080/live/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/BN_Televizija_Logo.svg/892px-BN_Televizija_Logo.svg.png",
     "name": "BN"

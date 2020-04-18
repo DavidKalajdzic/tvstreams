@@ -83,5 +83,10 @@
     "url": "https://streams.wilmaa.com/m3u8/get?channelId=nrj_12",
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/langfr-1920px-NRJ_12_logo_2015.svg.png",
     "name": "NRJ 12"
+  } ,
+  {
+    "url": "https://streams.wilmaa.com/m3u8/get?channelId=rts_un_hd",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/RTS_Un.svg/704px-RTS_Un.svg.png",
+    "name": "RTS UN HD"
   }
 ]

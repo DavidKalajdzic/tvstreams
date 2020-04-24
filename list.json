@@ -1,7 +1,7 @@
 [
   {
     "url": "https://streams.wilmaa.com/m3u8/get?channelId=rts_un_hd",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/RTS_Un.svg/704px-RTS_Un.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/RTS_un_HD.svg/1024px-RTS_un_HD.svg.png",
     "name": "RTS UN HD"
   },
   {
@@ -75,9 +75,9 @@
     "name": "TF1 Films&Séries"
   },
   {
-    "url": "https://streams.wilmaa.com/m3u8/get?channelId=tmc",
-    "logo": "https://i2.wp.com/blog.shanegraphique.com/wp-content/uploads/2016/08/01-4.png",
-    "name": "TMC"
+    "url": "https://streams.wilmaa.com/m3u8/get?channelId=arte_fr_hd",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Arte_Logo_2011.svg/2880px-Arte_Logo_2011.svg.png",
+    "name": "Arte HD"
   },
   {
     "url": "https://streams.wilmaa.com/m3u8/get?channelId=tv_5_monde",
@@ -90,9 +90,9 @@
     "name": "RMC Découverte"
   },
   {
-    "url": "https://streams.wilmaa.com/m3u8/get?channelId=arte_fr_hd",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Arte_Logo_2011.svg/2880px-Arte_Logo_2011.svg.png",
-    "name": "Arte HD"
+    "url": "https://streams.wilmaa.com/m3u8/get?channelId=tmc",
+    "logo": "https://i2.wp.com/blog.shanegraphique.com/wp-content/uploads/2016/08/01-4.png",
+    "name": "TMC"
   },
   {
     "url": "https://streams.wilmaa.com/m3u8/get?channelId=w_9",
@@ -108,5 +108,10 @@
     "url": "https://streams.wilmaa.com/m3u8/get?channelId=leman_bleu",
     "logo": "https://resources.wilmaa.com/logos/single/dark/center/360x120px/leman_bleu.png",
     "name": "Léman Bleu"
+  },
+  {
+    "url": "https://rt-france-gd.secure2.footprint.net/1107_2500Kb.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/RT_France.svg/1024px-RT_France.svg.png",
+    "name": "RT France"
   }
 ]
